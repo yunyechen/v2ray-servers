@@ -1,6 +1,6 @@
 # v2ray免费节点
 ## 节点不定期更新（比较稳定，非必要时不会更新）
-`上次更新日期：2024-7-27 13:26`
+`上次更新日期：2024-8-20 20:53`
 
 #### 订阅地址
 [https://yychen.cloudns.be/dingyue-servers.txt](https://yychen.cloudns.be/dingyue-servers.txt)
